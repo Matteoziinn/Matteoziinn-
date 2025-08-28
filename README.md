@@ -35,6 +35,7 @@
 💼 LinkedIn
  https://linkedin.com/in/matteo_caetano
 
-📧 matteoscaetano@gmail.com
+📧 e-mail
+matteoscaetano@gmail.com
 
 ✨ Sempre buscando aprender e criar soluções inovadoras!
