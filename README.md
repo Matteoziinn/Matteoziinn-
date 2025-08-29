@@ -33,7 +33,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Matteoziinn&show_icons=true&theme=tokyonight" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matteoziinn&layout=compact&theme=tokyonight" height="160px"/> </p>
 🌐 Goiânia/Goias
 
-<a href="https://www.linkedin.com/in/matteo_caetano" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+📱Contato:
+<a href="https://instagram.com/matteo062_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto: matteoscaetano@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/matteo-caetano" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 📧 e-mail
 matteoscaetano@gmail.com
