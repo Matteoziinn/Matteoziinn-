@@ -33,9 +33,19 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Matteoziinn&show_icons=true&theme=tokyonight" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matteoziinn&layout=compact&theme=tokyonight" height="160px"/> </p>
 🌐 Goiânia/Goias
 
-📱Contato:
+📱 Onde me encontrar  
 
-<a href="https://instagram.com/matteo062_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto: matteoscaetano@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/matteo-caetano" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<p align="center">
+  <a href="https://www.instagram.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ✨ Sempre buscando aprender e criar soluções inovadoras!
